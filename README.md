@@ -1,4 +1,7 @@
 ## Arsenal
+
+![NetHydra Arsenal logo text](presspack/arsenal-logo-text.png)
+
 is free and Open-source Linux distribution for Enterprise sector.
 it's including various tools for Enterprise, Including, Web Applications Security, NetWorking, etc.
 
